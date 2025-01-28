@@ -1,4 +1,10 @@
-# Mental-Health-Support-Website
-The Mental Health Support Website is a user-friendly platform designed to promote mental well-being by offering a range of features to support users on their mental health journey. It includes daily support tools such as a daily affirmations generator, a self-care checklist, an inspirational quote of the day, and quick access to emergency helpline numbers.
+🌿 Mental Health Support Platform:-
+A compassionate and user-centric platform designed to promote mental well-being by providing essential tools, assessments, and resources to support users on their mental health journey.
 
-Users can benefit from a 10-question mental health assessment that evaluates key areas like stress, anxiety, sleep, and mood, providing personalized recommendations and direct links to relevant resources. The resource library offers curated content on topics such as stress management, sleep hygiene, and anxiety management, along with trusted external resources.
+🧘 Key Features:-
+✅ Daily Support Tools – Stay motivated with a daily affirmations generator, a self-care checklist, and an inspirational quote of the day to encourage positivity.
+✅ Quick Access to Help – Immediate access to emergency helpline numbers for those in need of urgent support.
+✅ Mental Health Assessment – A 10-question self-assessment evaluating stress, anxiety, sleep, and mood, offering personalized recommendations and direct links to relevant mental health resources.
+✅ Curated Resource Library – Access expert content on stress management, sleep hygiene, and anxiety relief, along with trusted external resources for deeper guidance.
+
+
